@@ -1,7 +1,6 @@
-Flask==2.3.3
-python-dotenv==1.0.0
+flask==2.3.3
 requests==2.31.0
-Werkzeug==2.3.7
-PyYAML==6.0.1
+python-dotenv==1.0.0
+pyyaml==6.0.1
+openapi-spec-validator==0.7.1
 gunicorn==21.2.0
-ibm-watson-machine-learning==1.0.335
